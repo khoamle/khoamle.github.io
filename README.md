@@ -1,5 +1,7 @@
 # My Portfolio 
 
+[Click here to view my portfolio](https://khoamle.github.io/ "Khoa Le Portfolio")
+
 Includes About, Skills, Portfolio projects, Work Experience, Contact section
 
 ## Technologies
@@ -12,13 +14,13 @@ Includes About, Skills, Portfolio projects, Work Experience, Contact section
 
 ## Font
 
-```ruby
+```
 The Historia Demo
 ```
 
 ## Library
 
-```ruby
+```
 * Font Awesome
 * Animate On Scroll
 * Typewriter Effect
